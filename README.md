@@ -9,3 +9,4 @@ This project was inspired by JavaScript Mastery.
 ![First](https://github.com/OfekElalouf/WebProjectFinal/assets/127011763/62d5e05c-9075-4761-ac59-26558b9a2065)
 ![middle](https://github.com/OfekElalouf/WebProjectFinal/assets/127011763/390195eb-4138-47ab-b5a8-c11a358784d3)
 ![GifPart](https://github.com/OfekElalouf/WebProjectFinal/assets/127011763/fc75ff25-1524-4608-a1ea-319900340868)
+![bottum](https://github.com/OfekElalouf/WebProjectFinal/assets/127011763/d021fbcd-ab25-4740-8310-381800c79b08)
